@@ -1,0 +1,4 @@
+ontobio==1.7
+rdflib==4.2.2
+prefixcommons>0.0
+bidict>0.0
